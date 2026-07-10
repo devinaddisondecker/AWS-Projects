@@ -212,7 +212,7 @@ For comprehensive DevOps projects covering various technologies and platforms be
 
 ## 🛠️ **Author & Community**
 
-This project is crafted by **[Harshhaa](https://github.com/devinaddisondecker)** 💡  
+This project is crafted by **[Devin Addison Decker](https://github.com/devinaddisondecker)** 💡  
 I'd love to hear your feedback! Feel free to share your thoughts.  
 
 ![Author Badge](https://img.shields.io/badge/🛠️%20Author%20&%20Community-Crafted%20with%20Passion%20by%20Harshhaa-8a2be2?style=for-the-badge&logo=github&logoColor=white)
@@ -221,7 +221,7 @@ I'd love to hear your feedback! Feel free to share your thoughts.
 
 ## 📧 **Connect with me:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devin-decker-5b8396414) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devinaddisondecker) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexworkdev) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/devinaddisondecker) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devin-decker-5b8396414) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devinaddisondecker) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexworkdev) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/devinaddisondecker) 
 
 ---
 
