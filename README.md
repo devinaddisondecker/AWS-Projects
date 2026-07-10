@@ -8,37 +8,37 @@
 [![Contributing][contrib-shield]][contrib-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[forks-shield]: https://img.shields.io/github/forks/NotHarshhaa/AWS-Projects?style=for-the-badge&logo=github&logoColor=white&color=orange
-[forks-url]: https://github.com/NotHarshhaa/AWS-Projects/network/members
+[forks-shield]: https://img.shields.io/github/forks/devinaddisondecker/AWS-Projects?style=for-the-badge&logo=github&logoColor=white&color=orange
+[forks-url]: https://github.com/devinaddisondecker/AWS-Projects/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/NotHarshhaa/AWS-Projects.svg?style=for-the-badge&logo=github&logoColor=white&color=brightgreen
-[stars-url]: https://github.com/NotHarshhaa/AWS-Projects/stargazers
+[stars-shield]: https://img.shields.io/github/stars/devinaddisondecker/AWS-Projects.svg?style=for-the-badge&logo=github&logoColor=white&color=brightgreen
+[stars-url]: https://github.com/devinaddisondecker/AWS-Projects/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/NotHarshhaa/AWS-Projects?style=for-the-badge&logo=github&logoColor=white&color=blue
-[issues-url]: https://github.com/NotHarshhaa/AWS-Projects/issues
+[issues-shield]: https://img.shields.io/github/issues/devinaddisondecker/AWS-Projects?style=for-the-badge&logo=github&logoColor=white&color=blue
+[issues-url]: https://github.com/devinaddisondecker/AWS-Projects/issues
 
-[commit-shield]: https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Projects?style=for-the-badge&logo=git&logoColor=white&color=ff69b4
-[commit-url]: https://github.com/NotHarshhaa/AWS-Projects/commits/master
+[commit-shield]: https://img.shields.io/github/last-commit/devinaddisondecker/AWS-Projects?style=for-the-badge&logo=git&logoColor=white&color=ff69b4
+[commit-url]: https://github.com/devinaddisondecker/AWS-Projects/commits/master
 
 [coc-shield]: https://img.shields.io/badge/Code%20of%20Conduct-Enforced-blueviolet?style=for-the-badge&logo=handshake&logoColor=white
-[coc-url]: https://github.com/NotHarshhaa/AWS-Projects/blob/master/CODE_OF_CONDUCT.md
+[coc-url]: https://github.com/devinaddisondecker/AWS-Projects/blob/master/CODE_OF_CONDUCT.md
 
 [contrib-shield]: https://img.shields.io/badge/Contributions-Welcome-ff69b4?style=for-the-badge&logo=gitbook&logoColor=white
-[contrib-url]: https://github.com/NotHarshhaa/AWS-Projects/blob/master/CONTRIBUTING.md
+[contrib-url]: https://github.com/devinaddisondecker/AWS-Projects/blob/master/CONTRIBUTING.md
 
 ![AWS-Projects](https://imgur.com/oxxhJRx.png)
 
 ## 👥 **Project Ownership**
 
-<a href="https://github.com/NotHarshhaa/AWS-Projects/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=NotHarshhaa/AWS-Projects" />
+<a href="https://github.com/devinaddisondecker/AWS-Projects/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=devinaddisondecker/AWS-Projects" />
 </a>
 
 ---
 
 ## 🌟 **Star History**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=NotHarshhaa/AWS-Projects&type=Date)](https://www.star-history.com/#NotHarshhaa/AWS-Projects&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=devinaddisondecker/AWS-Projects&type=Date)](https://www.star-history.com/#devinaddisondecker/AWS-Projects&Date)
 
 ---
 
@@ -81,9 +81,6 @@ To improve readability and accessibility for users, this repository is also avai
 
 A website showcasing a curated list of major real-time AWS DevOps and Cloud projects, ranging from beginner to advanced levels. Built using **Next.js** and styled with **Tailwind CSS**, this project leverages a modern starter template for fast and responsive development. Perfect for learning and exploring hands-on AWS DevOps and Cloud concepts!
 
-🔗 **Explore the site**: [projects.prodevopsguytech.com](https://projects.prodevopsguytech.com)
-
-![Showcase Website](https://img.shields.io/badge/🌐%20Project%20Showcase-Next.js%20+%20Tailwind%20UI-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -91,7 +88,7 @@ A website showcasing a curated list of major real-time AWS DevOps and Cloud proj
 
 For comprehensive DevOps projects covering various technologies and platforms beyond AWS, visit our main DevOps Projects repository:
 
-[![DevOps Projects](https://img.shields.io/badge/🔗%20DevOps%20Projects-4.0k%20⭐%20%7C%204.1k%20🍴-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa/DevOps-Projects)
+[![DevOps Projects](https://img.shields.io/badge/🔗%20DevOps%20Projects-4.0k%20⭐%20%7C%204.1k%20🍴-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devinaddisondecker/DevOps-Projects)
 
 **Repository Highlights:**
 - **4.0k+ Stars** and **4.1k+ Forks** - Highly popular in the DevOps community
@@ -100,7 +97,7 @@ For comprehensive DevOps projects covering various technologies and platforms be
 - **Hands-on Learning** with practical implementation guides
 - **Community Driven** with active contributions and discussions
 
-🔗 **Visit the main repository**: [https://github.com/NotHarshhaa/DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects)
+🔗 **Visit the main repository**: [https://github.com/devinaddisondecker/DevOps-Projects](https://github.com/devinaddisondecker/DevOps-Projects)
 
 ![Related Projects](https://img.shields.io/badge/📚%20Related%20Projects-Comprehensive%20DevOps%20Learning%20Hub-green?style=for-the-badge&logo=github&logoColor=white)
 
@@ -175,7 +172,7 @@ For comprehensive DevOps projects covering various technologies and platforms be
 >
 > We are committed to fostering a welcoming and respectful environment for all contributors. Please take a moment to review our [Code of Conduct](./CODE_OF_CONDUCT.md) before participating in this community.
 
-[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Enforced-blueviolet?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/NotHarshhaa/AWS-Projects/blob/master/CODE_OF_CONDUCT.md)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Enforced-blueviolet?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/devinaddisondecker/AWS-Projects/blob/master/CODE_OF_CONDUCT.md)
 
 ---
 
@@ -191,7 +188,7 @@ For comprehensive DevOps projects covering various technologies and platforms be
 >
 > **We follow best practices for contribution and AWS Well-Architected Framework principles.**
 
-[![Contributing](https://img.shields.io/badge/Contribute-Guide-ff69b4?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/NotHarshhaa/AWS-Projects/blob/master/CONTRIBUTING.md)
+[![Contributing](https://img.shields.io/badge/Contribute-Guide-ff69b4?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/devinaddisondecker/AWS-Projects/blob/master/CONTRIBUTING.md)
 
 ---
 
@@ -200,8 +197,8 @@ For comprehensive DevOps projects covering various technologies and platforms be
 > [!IMPORTANT]
 > Be a part of our active AWS DevOps community:
 
-[![Join Telegram](https://img.shields.io/badge/Join%20Us%20on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) 
-[![Follow on GitHub](https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)
+[![Join Telegram](https://img.shields.io/badge/Join%20Us%20on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexworkdev) 
+[![Follow on GitHub](https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devinaddisondecker)
 
 ---
 
@@ -215,7 +212,7 @@ For comprehensive DevOps projects covering various technologies and platforms be
 
 ## 🛠️ **Author & Community**
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡  
+This project is crafted by **[Harshhaa](https://github.com/devinaddisondecker)** 💡  
 I'd love to hear your feedback! Feel free to share your thoughts.  
 
 ![Author Badge](https://img.shields.io/badge/🛠️%20Author%20&%20Community-Crafted%20with%20Passion%20by%20Harshhaa-8a2be2?style=for-the-badge&logo=github&logoColor=white)
@@ -224,7 +221,7 @@ I'd love to hear your feedback! Feel free to share your thoughts.
 
 ## 📧 **Connect with me:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devin-decker-5b8396414) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devinaddisondecker) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexworkdev) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/devinaddisondecker) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)  
 
 ---
 
